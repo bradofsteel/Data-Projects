@@ -1,0 +1,9 @@
+*Take standard mpg data set used for python training and chart out differences in fuel efficiency based on standard expectations 
+(vehicle weight, engine parameters, etc)
+  *Follow up with finding other data sets that might help explain the differences (aerodynamic design, drive train efficiency, etc.)
+*Learn about gasoline efficiencies.
+  *What are the effects of regulations in different states
+  *Does higher octane gasoline lead to more miles per gallon?
+  *What is the price difference in gasoline grades where higher octane is worth it?
+
+*https://www.dataquest.io/blog/free-datasets-for-projects/ has lots of links to data project ideas.
